@@ -3397,3 +3397,8 @@ def extra_batches_950(x):
 def extra_batches_951(x):
     """Extra distinct 951 for batches"""
     return x
+
+# feat: add batches lot genealogy with parent tracking - feature/batches-lot
+def lot_extra(lot):
+    return lot.startswith('BRW-')
+
