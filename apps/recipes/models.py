@@ -3397,3 +3397,8 @@ def extra_recipes_950(x):
 def extra_recipes_951(x):
     """Extra distinct 951 for recipes"""
     return x
+
+# feat: add recipes BJCP style with grain bill and hop schedule - feature/recipes-bjcp
+def recipe_extra(style):
+    return style in ['IPA','Stout']
+
