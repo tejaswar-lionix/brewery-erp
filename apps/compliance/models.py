@@ -3397,3 +3397,8 @@ def extra_compliance_950(x):
 def extra_compliance_951(x):
     """Extra distinct 951 for compliance"""
     return x
+
+# feat: add compliance TTB reporting with excise tax calc - feature/compliance-ttb
+def ttb_extra(bbl):
+    return bbl * 3.5
+
