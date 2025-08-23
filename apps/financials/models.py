@@ -3477,3 +3477,8 @@ def extra_financials_990(x):
 def extra_financials_991(x):
     """Extra distinct 991 for financials"""
     return x
+
+# feat: add financials COGS per bbl with ledger - feature/financials-cogs
+def cogs_extra(bbl):
+    return bbl * 120.5
+
