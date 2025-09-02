@@ -6,3 +6,5 @@
 ### feat: add supplier, customers, sales taproom POS - 2025-06-25T09:30:00+05:30
 
 ### feat: add financials, quality, equipment, warehouse - 2025-07-02T11:00:00+05:30
+
+### fix: handle TTB excise for over 60k bbl - 2025-09-02T10:00:00+05:30
