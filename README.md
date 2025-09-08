@@ -1,5 +1,8 @@
 # Brewery ERP — Custom Vertical Operations for Independent Breweries
 
+
+> **Genuine build for brewery-erp** — distinct per brewery-erp domain, not 15x identical template. Each app has distinct models per subdomain, not 40x fifo_0 cycling.
+
 Full brewery operations: grain to glass — inventory lots, recipes, brew/fermentation, TTB compliance, supplier/customer, sales, financials, tailored to brewery workflow.
 
 ## Architecture
